@@ -1,0 +1,16 @@
+score = 70  # Lagay score here kung 22o
+
+if score < 0 or score > 100:
+    print("Invalid Input or Score! Please enter a value between 0 to 100.")
+elif score >= 90:
+    print("Grade A, Watanays!")
+elif score >= 80:
+    print("Grade B, Nayswan Gudjab!")
+elif score >= 70:
+    print("Grade C, NagLOG perdds!")
+elif score >= 60:
+    print("Grade D, arawkupuuu!")
+else:
+    print("Grade F, Hindi mahalaga ang magwagi!")
+
+#MATSO
